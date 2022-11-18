@@ -6,7 +6,8 @@
   </script>
   
   <div class="slidecontainer">
-      <label for="volume-slider">0</label>
+      <!-- <label for="volume-slider">0</label> -->
+      <label for="volume-slider"></label>
   
       <input id="myRange" 
                    class="slider"
@@ -19,7 +20,8 @@
                    on:input
                    >
   
-      <label for="volume-slider">{vol}</label>
+      <!-- <label for="volume-slider">{vol}</label> -->
+      <label for="volume-slider"></label>
   </div>
   
   <style>

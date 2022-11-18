@@ -47,7 +47,7 @@
 	/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 	button.active {
 		background-color: #888;
-		color: black;
+		color: rgb(255, 255, 255);
 	}
 
 	ul {

@@ -160,10 +160,8 @@
 		<br />
 		<br />
 		<br />
-		<br />
 		<div id="cntrls">
-			<ProgressBarTime {currTimeDisplay} {totalTimeDisplay} {progress} />
-
+			
 			<Controls
 				{isPlaying}
 				on:rewind={rewindAudio}
@@ -172,6 +170,11 @@
 			/>
 
 			<VolumeSlider bind:vol on:input={adjustVol} />
+
+			<ProgressBarTime {currTimeDisplay} {totalTimeDisplay} {progress} />
+
+			
+			
 		</div>
 	</section>
 
