@@ -10,9 +10,6 @@
 		<slot />
 	</main>
 
-	<footer>
-		<p>Dᒷᓭ╎⊣リᒷ↸ ʖ|| <a href="https://github.com/LyghtCode">l||⊣⍑ℸ ̣ c𝙹↸ᒷ</a></p>
-	</footer>
 </div>
 
 <style>
