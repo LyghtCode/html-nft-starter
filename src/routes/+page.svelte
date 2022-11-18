@@ -1,6 +1,6 @@
 <svelte:head>
-	<title>About</title>
-	<meta name="description" content="About this app" />
+	<title>NFT Digital Vinyl</title>
+	<meta name="description" content="NFT Digital Vinyl" />
 </svelte:head>
 
 <div class="text-column">
