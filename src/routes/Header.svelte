@@ -6,7 +6,7 @@
 
 <header>
 	<div class="corner">
-		<a href="https://kit.svelte.dev">
+		<a href="https://decent.xyz/">
 			<img src={logo} alt="SvelteKit" />
 		</a>
 	</div>
@@ -19,8 +19,8 @@
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About</a>
+			<li aria-current={$page.url.pathname === '/album' ? 'page' : undefined}>
+				<a href="/album">Album</a>
 			</li>
 			<li >
 				<a href="https://twitter.com/TainoMusica">Twitter</a>

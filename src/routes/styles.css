@@ -3,9 +3,9 @@
 :root {
 	--font-body: 'Genos', sans-serif;
 	--font-mono: 'Genos', sans-serif;
-	--color-bg-0: rgb(202, 216, 228);
+	--color-bg-0: rgb(0, 0, 0);
 	--color-bg-1: hsl(209, 36%, 86%);
-	--color-bg-2: hsl(224, 44%, 95%);
+	--color-bg-2: hsl(163, 83%, 70%);
 	--color-theme-1: rgb(27, 157, 233);
 	--color-theme-2: #40b3ff;
 	--color-text: rgba(0, 0, 0, 0.7);
