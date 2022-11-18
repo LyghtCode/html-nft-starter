@@ -1,14 +1,14 @@
 export const audioData = [
 	{
-		name: "The Practice of Giving",
-		url: "https://download.pariyatti.org/free/_moIbLs95/Dana_The_Practice_of_Giving_single.mp3",
+		name: "Addis",
+		url: "https://bafybeickxhhrmerirrnr4oexc67mxh5kmeglbyktmbcphfebyn6igj2dle.ipfs.dweb.link/",
 	},
 	{
-		name: "Lumbini",
-		url: "https://download.pariyatti.org/free/_moIbLs95/along_the_path_audio/streaming/Lumbini.mp3",
+		name: "Don't Hold Back",
+		url: "https://bafybeianlwkrt4h6x7xk7w6um6hz7n5lv7zhzgumrtpqcy56fpsfvlqtra.ipfs.dweb.link/",
 	},
 	{
-		name: "Great Compassion",
-		url: "https://download.pariyatti.org/free/_moIbLs95/along_the_path_audio/streaming/Great_Compassion.mp3",
+		name: "Sumac",
+		url: "https://bafybeiadfzzeikyti3zgkiblhcbe45qdsgimyx3u4q7bxhr7ijzablcdpy.ipfs.dweb.link/",
 	}
 ]
