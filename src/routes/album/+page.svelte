@@ -6,14 +6,20 @@
 	import Controls from './Controls.svelte';
 	import VolumeSlider from './VolumeSlider.svelte';
 	import PlayList from './PlayList.svelte';
+	import { onMount } from 'svelte';
+
+// Get Audio track
+	let trackIndex = 0;
+	let trackTitle = audioData[trackIndex].name;
+	var audioFile = new Audio(audioData[trackIndex].url);
+
+	onMount(() => {
+		audioFile = new Audio(audioData[trackIndex].url);
+	});
 
 	
-
-	// Get Audio track
-	let trackIndex = 0;
 	// $: console.log(trackIndex)
-	var audioFile = new Audio(audioData[trackIndex].url);
-	let trackTitle = audioData[trackIndex].name;
+
 
 	const loadTrack = () => {
 		audioFile = new Audio(audioData[trackIndex].url);
@@ -139,23 +145,22 @@
 	<section id="player-cont">
 		<TrackHeading {trackTitle} />
 		<!-- need better way to space this :/ jaja  -->
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
 		<div id="cntrls">
-			
 			<ProgressBarTime {currTimeDisplay} {totalTimeDisplay} {progress} />
 
 			<Controls
