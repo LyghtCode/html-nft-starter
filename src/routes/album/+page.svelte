@@ -11,11 +11,12 @@
 // Get Audio track
 	let trackIndex = 0;
 	let trackTitle = audioData[trackIndex].name;
-	var audioFile = new Audio(audioData[trackIndex].url);
-
 	onMount(() => {
 		audioFile = new Audio(audioData[trackIndex].url);
 	});
+	let audioFile = new Audio(audioData[trackIndex].url);
+
+	
 
 	
 	// $: console.log(trackIndex)
