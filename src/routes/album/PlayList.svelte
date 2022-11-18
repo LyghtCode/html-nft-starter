@@ -52,7 +52,7 @@
 
 	ul {
 		list-style-type: none;
-		background: transparent;
+		background: #888;
 		color:  rgb(27, 157, 233);
 		margin: 0;
 		padding: 0;
