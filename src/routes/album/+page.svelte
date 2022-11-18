@@ -12,7 +12,7 @@
 	// Get Audio track
 	let trackIndex = 0;
 	// $: console.log(trackIndex)
-	let audioFile = new Audio(audioData[trackIndex].url);
+	var audioFile = new Audio(audioData[trackIndex].url);
 	let trackTitle = audioData[trackIndex].name;
 
 	const loadTrack = () => {
