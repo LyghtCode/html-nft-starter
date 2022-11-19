@@ -4,7 +4,9 @@
 </script>
 
 <div class="text-column">
-	<iframe title="reef" class="iframe" controls={false} autoplay={true} width="480px" scrolling="no" height="400px" frameborder="0" marginwidth="0" allowfullscreen={false} marginheight="0" src="https://public.earthcam.net/tJ90CoLmq7TzrY396Yd88IyNkZovC7VvK3MKrO-H1OY!.tJ90CoLmq7TzrY396Yd88DhBq-PM9mSzO72u8xJpxJU!.tJ90CoLmq7TzrY396Yd88LooiNTPuzPqrdJgkFSIS8k!"></iframe>		
+	<!-- svelte-ignore a11y-media-has-caption -->
+	<video controls={false} autoplay={true} width="480px" scrolling="no" height="400px" src='https://share.earthcam.net/api/tJ90CoLmq7TzrY396Yd88IyNkZovC7VvK3MKrO-H1OY!.tJ90CoLmq7TzrY396Yd88DhBq-PM9mSzO72u8xJpxJU!.tJ90CoLmq7TzrY396Yd88IRf4I9_XLm7uyXg77PHHVQ!'></video>
+	<!-- <iframe title="reef" class="iframe" controls={false} autoplay={true} width="480px" scrolling="no" height="400px" frameborder="0" marginwidth="0" allowfullscreen={false} marginheight="0" src="https://public.earthcam.net/tJ90CoLmq7TzrY396Yd88IyNkZovC7VvK3MKrO-H1OY!.tJ90CoLmq7TzrY396Yd88DhBq-PM9mSzO72u8xJpxJU!.tJ90CoLmq7TzrY396Yd88LooiNTPuzPqrdJgkFSIS8k!"></iframe>		 -->
 
 		<!-- <section id="reef"> -->
 			<!-- svelte-ignore a11y-media-has-caption -->
