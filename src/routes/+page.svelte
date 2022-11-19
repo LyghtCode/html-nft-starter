@@ -16,5 +16,5 @@
 
 	<p style="text-align: center;">Wᒷ'∷ᒷ ℸ ̣ ⍑ᒷ ᔑꖎ╎ᒷリᓭ, ∴ᒷ ⋮⚍ᓭℸ ̣  ⎓𝙹∷⊣𝙹ℸ ̣.</p>
 
-	<p style="text-align: center;">Dᒷᓭ╎⊣リᒷ↸ ʖ|| <a href="https://github.com/LyghtCode">l||⊣⍑ℸ ̣ c𝙹↸ᒷ</a></p>
+	<p style="text-align: center;">Dᒷᓭ╎⊣リᒷ↸ ʖ|| l||⊣⍑ℸ ̣ c𝙹↸ᒷ</p>
 </div>

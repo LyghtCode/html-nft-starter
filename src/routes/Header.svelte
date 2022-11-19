@@ -5,11 +5,11 @@
 </script>
 
 <header>
-	<div class="corner">
+	<!-- <div class="corner">
 		<a href="https://decent.xyz/">
 			<img src={logo} alt="SvelteKit" />
 		</a>
-	</div>
+	</div> -->
 
 	<nav>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -17,13 +17,10 @@
 		</svg>
 		<ul>
 			<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-				<a href="/">Home</a>
+				<a href="/">The Idea</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/album' ? 'page' : undefined}>
 				<a href="/album">Album</a>
-			</li>
-			<li >
-				<a href="https://twitter.com/TainoMusica">Twitter</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -31,11 +28,11 @@
 		</svg>
 	</nav>
 
-	<div class="corner">
+	<!-- <div class="corner">
 		<a href="https://github.com/LyghtCode">
 			<img src={github} alt="GitHub" />
 		</a>
-	</div>
+	</div> -->
 </header>
 
 <style>
