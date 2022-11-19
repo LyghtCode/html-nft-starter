@@ -5,11 +5,9 @@
 
 <div class="text-column">
 
-	<section id="reef">
 		
-		<iframe autoplay width="540px" height="400px" src="https://www.youtube.com/embed/vhZPwHyDV9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe class="iframe" width="500" scrolling="no" height="450" frameborder="0" marginwidth="0" allowfullscreen="allowfullscreen" marginheight="0" style="position: absolute; top: 0px; left: 0px; opacity: 1; width: 100%; height: 100%; visibility: visible;" src="https://public.earthcam.net/tJ90CoLmq7TzrY396Yd88IyNkZovC7VvK3MKrO-H1OY!.tJ90CoLmq7TzrY396Yd88DhBq-PM9mSzO72u8xJpxJU!.tJ90CoLmq7TzrY396Yd88LooiNTPuzPqrdJgkFSIS8k!"></iframe>
 			
-	</section>
 	
 
 </div>
