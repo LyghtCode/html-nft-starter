@@ -13,7 +13,7 @@ example on [OpenSea](https://opensea.io/assets/matic/0xa924ead9001efe0edb96353c0
 
 Use this as a starter or create your own HTML NFT project. The most important part is configuring the metadata parameter "animation_url:".
 This example repo is deployed with vercel. You can use whatever deployment service you'd like just change the animation_url to your deployment URL.
-Configuring this parameter in the metadata will insure OpenSea and other marketplaces display the NFT correctly.
+Configuring this parameter in the [metadata.json](https://github.com/LyghtCode/html-nft-starter/blob/main/src/lib/images/webnft.json) will insure OpenSea and other marketplaces display the NFT correctly.
 
 ```bash
 {
