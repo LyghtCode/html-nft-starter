@@ -1,10 +1,10 @@
-# create-svelte
+# html-nft-starter
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+A prototype and example of how to create interactive HTML NFT's.
 
-## Creating a project
+## Creating a NFT project
 
-If you're seeing this, you've probably already done this step. Congrats!
+Use this as a starter or create your own svelte project.
 
 ```bash
 # create a new project in the current directory
