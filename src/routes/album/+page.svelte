@@ -202,7 +202,7 @@
 		background: transparent;
 		color: rgb(27, 157, 233);
 		border-radius: 5px 5px 0 0;
-		background: url('/sound.gif');
+		background: url('/peace.png');
 	}
 
 	#cntrls {

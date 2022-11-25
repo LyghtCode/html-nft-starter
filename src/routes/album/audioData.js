@@ -1,6 +1,6 @@
 export const audioData = [
 	{
-		name: "Addis",
+		name: "Life After Life",
 		url: "https://bafybeickxhhrmerirrnr4oexc67mxh5kmeglbyktmbcphfebyn6igj2dle.ipfs.dweb.link/",
 	},
 	{
