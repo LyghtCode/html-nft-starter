@@ -26,10 +26,10 @@
 	<p style="text-align: center;">
 		Broken Child - this was like the first track I wrote for this record it was I think late 2016 I
 		think this was the first joint we did it’s all about being honest and vulnerable like I was a
-		virgin heading off to college and I’m still a paranoid son of a mother lmfao.
+		virgin heading off to college and I’m still a paranoid son of a mother lmfao. Enjoy.
 	</p>
 	<p style="text-align: center;">
-		Enjoy Wildly On The Run - I wrote this down at Sunset Cliffs with a beater ass guitar I had
+		Wildly On The Run - I wrote this down at Sunset Cliffs with a beater ass guitar I had
 		bought at Guitar Center whilst in LA cuz I had to escape my living situation and aint have no
 		time to get my guitar ya feel me? Like my life is nuts.
 	</p>
@@ -42,7 +42,7 @@
 		mf love to be miserable and drag all down with them?!? Crazy world.
 	</p>
 	<p style="text-align: center;">
-		How Many Days? - I love cigarettes. Idfaf. I absolutely love tobacco. I think I only love the
+		How Many Days? - I love cigarettes. Idgaf. I absolutely love tobacco. I think I only love the
 		ocean more. Anyhow, wrote this late one night in ob like musing ‘how many days on this planet we
 		get?’
 	</p>
@@ -54,7 +54,10 @@
 	<p style="text-align: center;">
 		Brokenhearted - wrote this on a deck in ob this was the last joint we did in January 2018 when I
 		got back from performing at a conference in hollywood. I was in go mode. Fav track on the
-		record. This record dedicated to my two pups Magic and Molasses who rode w me through all the
+		record. 
+	</p>
+		<p style="text-align: center;">
+		This record dedicated to my two pups Magic and Molasses who rode w me through all the
 		crazy times when I had to deal w gnarly humans all over this country. As always, all praise is
 		due to God cuz I’d be dead without him. Love to Jesus, as well. ENJOY!!! - peacer
 	</p>
