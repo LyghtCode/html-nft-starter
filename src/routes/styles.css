@@ -49,7 +49,7 @@ a:hover {
 }
 
 h1 {
-	font-size: 2.1rem;
+	font-size: 1.6rem;
 	text-align: center;
 }
 
@@ -89,6 +89,6 @@ button:focus:not(:focus-visible) {
 
 @media (min-width: 720px) {
 	h1 {
-		font-size: 2rem;
+		font-size: 1.6rem;
 	}
 }
