@@ -23,7 +23,7 @@
 
 <style>
 	section#playlist-cont {
-		width: 350px;
+		width: 432px;
 		box-shadow: 0 0 5px #222;
 		border-radius: 0 0 5px 5px;
 		background: transparent;
@@ -33,7 +33,7 @@
 	/* Style the buttons that are used to open and close the accordion panel */
 	button.accordion {
 		background: transparent;
-		color:  rgb(27, 157, 233);
+		color:  #D4C689;
 		margin: 0;
 		padding: 5px 15px;
 		width: 100%;
@@ -42,18 +42,19 @@
 		outline: none;
 		cursor: pointer;
 		transition: 0.4s;
+		font-size: 20px;
 	}
 
 	/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 	button.active {
-		background-color: #888;
+		background-color: transparent;
 		color: rgb(255, 255, 255);
 	}
 
 	ul {
 		list-style-type: none;
-		background: #888;
-		color:  rgb(27, 157, 233);
+		background: transparent;
+		color:  #D4C689;
 		margin: 0;
 		padding: 0;
 		border-radius: 0 0 5px 5px;
@@ -64,7 +65,7 @@
 
 	li {
 		line-height: 150%;
-		padding: 5px 5px 5px 20px;
+		/* padding: 5px 5px 5px 20px; */
 		border-bottom: 1px solid #ddd;
 		cursor: pointer;
 	}
@@ -75,6 +76,6 @@
 	}
 
 	.show-list {
-		height: 150px;
+		height: 100px;
 	}
 </style>

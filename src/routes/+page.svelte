@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column" style="max-width: 480px;">
-	<h1>LyghtCode's Digital Vinyl NFT</h1>
+	<h1>Life After Life - Bob Peace -Digital Vinyl NFT</h1>
 
 	<p style="text-align: center;">
 		This small web app exists within an NFT. The idea is to condense an entire album into a single

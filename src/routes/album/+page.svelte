@@ -195,14 +195,14 @@
 	} */
 
 	#player-cont {
-		width: 350px;
-		height: calc(60vh - 48px);
-		padding: 0.7rem 1.5rem 0;
+		width: 480px;
+		height: 480px;
+		/* padding: 0.7rem 1.5rem 0; */
 		box-shadow: 0 0 5px black;
 		background: transparent;
-		color: rgb(27, 157, 233);
+		color: var(--color-theme-1);
 		border-radius: 5px 5px 0 0;
-		background: url('/peace.png');
+		background: url('/bobpeace2.gif');
 	}
 
 	#cntrls {

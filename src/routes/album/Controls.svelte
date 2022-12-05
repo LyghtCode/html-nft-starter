@@ -4,7 +4,7 @@
 	let dispatch = createEventDispatcher();
 	
 	const icons = {
-		play: "https://gateway.pinata.cloud/ipfs/QmXP41MfqgGdMKHuPjdk7943XZPBrimYRph5DEBsDYW8RL",
+		play: "https://freesvg.org/img/media-playback-start.png",
 		pause: "https://freesvg.org/img/media-playback-pause.png",
 		rewind: "https://freesvg.org/img/media-skip-backward.png",
 		fwd: "https://freesvg.org/img/media-skip-forward.png"
