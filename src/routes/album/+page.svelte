@@ -202,7 +202,7 @@
 		background: transparent;
 		color: var(--color-theme-1);
 		border-radius: 5px 5px 0 0;
-		background: url('/bobpeace.gif');
+		background: url('/peace.png');
 	}
 
 	#cntrls {
