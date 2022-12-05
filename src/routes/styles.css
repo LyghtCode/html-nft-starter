@@ -3,7 +3,7 @@
 :root {
 	--font-body: 'Genos', sans-serif;
 	--font-mono: 'Genos', sans-serif;
-	--color-bg-0: rgb(0, 0, 0);
+	--color-bg-0: #D4C689;
 	--color-bg-1: hsl(209, 36%, 86%);
 	--color-bg-2: #e85774;
 	--color-theme-1: #D4C689;
