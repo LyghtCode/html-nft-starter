@@ -96,22 +96,23 @@ button:focus:not(:focus-visible) {
 html::-webkit-scrollbar {
     width: 10px;
   }
-
+/* background of scroll color */
 html::-webkit-scrollbar-track {
     background: cornflowerblue;
     border-radius: 10px;
 }
-
+/* bar default static thumb color */
 html::-webkit-scrollbar-thumb {
     background: var(--color-theme-1);
     border-radius: 10px;
   }
 
+  /* bar Hover color */
 html::-webkit-scrollbar-thumb:hover {
     background: var(--color-bg-2);
     border-radius: 10px;
   }
-
+/* bar Press color */
 html::-webkit-scrollbar-thumb:active {
     background: var(--color-theme-2);
     border-radius: 10px;
