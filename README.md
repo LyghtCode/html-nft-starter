@@ -41,3 +41,9 @@ External Links don't work!!! Don't even try :(
 
 
 > Designed by LyghtCode have fun get creative.
+
+## Current Metadata and Deployed Polygon Address
+
+Metadata: https://bafybeibgeb2ve2gi5dgftvil2inwqx47j3mun464srz4eobdwr6obab4la.ipfs.dweb.link/
+
+Address: [0xa924eaD9001Efe0EdB96353C0a356b63e3714389](https://polygonscan.com/address/0xa924ead9001efe0edb96353c0a356b63e3714389)
