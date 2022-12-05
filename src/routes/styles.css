@@ -40,7 +40,7 @@ p {
 }
 
 a {
-	color: var(--color-theme-1);
+	color: var(--color-text);
 	text-decoration: none;
 }
 
@@ -49,7 +49,7 @@ a:hover {
 }
 
 h1 {
-	font-size: 2.5rem;
+	font-size: 2.1rem;
 	text-align: center;
 }
 
@@ -89,6 +89,6 @@ button:focus:not(:focus-visible) {
 
 @media (min-width: 720px) {
 	h1 {
-		font-size: 2.4rem;
+		font-size: 2rem;
 	}
 }

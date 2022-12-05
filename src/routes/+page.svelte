@@ -4,7 +4,7 @@
 </svelte:head>
 
 <div class="text-column" style="max-width: 480px;">
-	<h1>Life After Life - Bob Peace -Digital Vinyl NFT</h1>
+	<h1>Life After Life - Bob Peace - Digital Vinyl NFT</h1>
 
 	<p style="text-align: center;">
 		This small web app exists within an NFT. The idea is to condense an entire album into a single
@@ -14,7 +14,8 @@
 		NFT then what else can be created???? No more monkey jpgs!
 	</p>
 
-	<p style="text-align: center;">Wᒷ'∷ᒷ ℸ ̣ ⍑ᒷ ᔑꖎ╎ᒷリᓭ, ∴ᒷ ⋮⚍ᓭℸ ̣  ⎓𝙹∷⊣𝙹ℸ ̣.</p>
+	<h1><a href="/album">Listen to Album >>></a></h1>
 
-	<p style="text-align: center;">Dᒷᓭ╎⊣リᒷ↸ ʖ|| l||⊣⍑ℸ ̣ c𝙹↸ᒷ</p>
+	
+
 </div>
