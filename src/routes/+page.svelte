@@ -7,12 +7,6 @@
 	<h1>Life After Life - Bob Peace - Digital Vinyl NFT</h1>
 
 	<p style="text-align: center;">
-		I’m going to give y’all a few thoughts
-		on this album so you know what the f is going on whilst listening. Firstly, thank you to the
-		Collectors - I’m nothing without y’all so thanks! Y’all are now Peacekeepers in my book so let’s
-		get it :-)
-	</p>
-	<p style="text-align: center;">
 		Lay With Me - this track I did in Spring 2017 it was after my girl and I split up and then we
 		was getting back together so this is like my lil’ track to her like yo ‘where yo head at what’s
 		the deal?’

@@ -12,11 +12,11 @@ export const audioData = [
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/03%20-%20BobPeace_03v1_BrokenChild.mp3",
 	},
 	{
-		name: "Wildly On the Run",
+		name: "Wildly On The Run",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/04%20-%20BobPeace_04v1_WildlyOnTheRun.mp3",
 	},
 	{
-		name: "Fall Into the Sky",
+		name: "Fall Into The Sky",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/05%20-%20BobPeace_05v1_FallIntoTheSky.mp3",
 	},
 	{
@@ -32,7 +32,7 @@ export const audioData = [
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/08%20-%20BobPeace_08v2_WeDontKnowWhy.mp3",
 	},
 	{
-		name: "Reach the Sky",
+		name: "Reach The Sky",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/09%20-%20BobPeace_09v1_ReachTheSky.mp3",
 	},
 	{
