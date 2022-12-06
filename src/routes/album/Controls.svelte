@@ -6,8 +6,8 @@
 	const icons = {
 		play: "https://freesvg.org/img/media-playback-start.png",
 		pause: "https://freesvg.org/img/media-playback-pause.png",
-		rewind: "https://freesvg.org/img/media-skip-backward.png",
-		fwd: "https://freesvg.org/img/media-skip-forward.png"
+		rewind: "https://freesvg.org/img/media-seek-backward.png",
+		fwd: "https://freesvg.org/img/media-seek-forward.png"
 	}
 	
   /**
