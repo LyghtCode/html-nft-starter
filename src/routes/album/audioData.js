@@ -4,7 +4,7 @@ export const audioData = [
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/01%20-%20BobPeace_01v1_LayWithMe.mp3",
 	},
 	{
-		name: "Try & Fly High",
+		name: "Try And Fly High",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/02%20-%20BobPeace_02v1_TryAndFlyHigh.mp3",
 	},
 	{
@@ -24,7 +24,7 @@ export const audioData = [
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/06%20-%20BobPeace_06v1_MiseryLovesCompany.mp3",
 	},
 	{
-		name: "How Many Days",
+		name: "How Many Days?",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/07%20-%20BobPeace_07v1_HowManyDays.mp3",
 	},
 	{
@@ -36,7 +36,7 @@ export const audioData = [
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/09%20-%20BobPeace_09v1_ReachTheSky.mp3",
 	},
 	{
-		name: "Broken Hearted",
+		name: "Brokenhearted",
 		url: "https://gateway.pinata.cloud/ipfs/QmTXGBoQti7ApcWE9KG4UC4oi7sZg3Weea8eqKSR9Z2F7b/10%20-%20BobPeace_10v1_BrokenHearted.mp3",
 	}
 ]
